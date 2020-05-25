@@ -1,0 +1,12 @@
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\bin\Debug\netcoreapp3.1\AWSLambdaToSqs.deps.json
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\bin\Debug\netcoreapp3.1\AWSLambdaToSqs.runtimeconfig.json
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\bin\Debug\netcoreapp3.1\AWSLambdaToSqs.runtimeconfig.dev.json
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\bin\Debug\netcoreapp3.1\AWSLambdaToSqs.dll
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\bin\Debug\netcoreapp3.1\AWSLambdaToSqs.pdb
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.csprojAssemblyReference.cache
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.AssemblyInfoInputs.cache
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.AssemblyInfo.cs
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.csproj.CoreCompileInputs.cache
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.dll
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.pdb
+C:\rg\repo\AwsSQS\AWSLambdaToSqs\obj\Debug\netcoreapp3.1\AWSLambdaToSqs.genruntimeconfig.cache
